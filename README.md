@@ -1,4 +1,5 @@
-### Hello there 👋LightSaber
+### Hello there ![image](https://user-images.githubusercontent.com/72526902/126850549-70631012-5637-42f4-88c7-c9bccf9b5346.png)
+👋
 
 <!--
 **erictn3/erictn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
