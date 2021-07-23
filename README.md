@@ -1,6 +1,4 @@
-### Hello there ![image](https://user-images.githubusercontent.com/72526902/126850574-28efc2fb-c098-4ee8-9ee4-b93208ae1c5e.png)
-
-👋
+### Hello there ![image](https://user-images.githubusercontent.com/72526902/126850574-28efc2fb-c098-4ee8-9ee4-b93208ae1c5e.png)👋
 
 <!--
 **erictn3/erictn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
