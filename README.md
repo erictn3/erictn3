@@ -20,7 +20,7 @@ Software Engineer with proven leadership skills while working effectively as par
 
 👀 View my portfolio here: [Portfolio](https://etn-portfolio.herokuapp.com/)
 
-📝 Check my resume out here: [Jason's Resume](drive.google.com)
+📝 Check my resume out here: [Eric's Resume](https://www.dropbox.com/s/jokn1rhtwxgp3ze/ETN_resume_072221_online%20%281%29.pdf?dl=0)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/erictayloyrnguyen/)
 
